@@ -5,7 +5,8 @@ Hosting Link: https://zidanh1.github.io/march-html/
 ## User stories
 
 User types:
-'''
+
+```
 As A <User_Type>     (Who?)
 I WANT TO <Action>    (What?)
 SO THAT <Goal>        (Why?)
@@ -35,8 +36,6 @@ SO THAT I can choose a phone that is harder to break
 AS TradeTitan
 I WANT TO access a list of commissions on phones I can sell
 SO THAT I can maximize my profit
-'''
+```
 
-As A <User_Type>     (Who?)
-I WANT TO <Action>    (What?)
-SO THAT <Goal>        (Why?)
+
