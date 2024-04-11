@@ -67,7 +67,9 @@ body {
   align-items: center;
   justify-content: center;
 
-  background: url(./images/Phone2-lux-banner.png);
+  color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(./images/Phone2-lux-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
