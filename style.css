@@ -78,8 +78,10 @@ body {
 .footer-link-list {
   list-style: none;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  margin: 4rem auto;
+  align-items: center;
+  margin: 3rem auto;
 }
 
 .phone-img {
@@ -96,4 +98,14 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+}
+
+@media screen and (min-width: 768px) {
+  .footer-link-list {
+    flex-direction: row;
+  }
+}
+
+.carousel-image {
+  width: 100%;
 }
