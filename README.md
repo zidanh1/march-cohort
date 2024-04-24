@@ -1,6 +1,6 @@
 # Cell Phone Webshop
 
-Hosting Link: (https://github.com/zidanh1/march-html.git)
+Hosting Link: https://github.com/zidanh1/march-html.git
 ## User stories
 
 User types:
